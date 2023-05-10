@@ -1,7 +1,7 @@
 # ReverseSensor
 This project develops a reverse sensor for automobiles with an ultrasonic sensor, Arduino board, and LED display screen. It provides a cost-effective and easy-to-install solution for enhancing parking and reverse driving safety with the added feature of a proximity buzzer for obstacle warning. The open-source project files are available on Github.
 
-You can try out the project in the [Arduino simulator](https://wokwi.com/projects/364338409720052737).
+You can try out the project in the [Arduino simulator](https://wokwi.com/projects/364343439885255681).
 
 
 <img src="https://github.com/avner098/ReverseSensor/blob/main/distance%20equal%20to%20390.png" alt="Example Image" width="500" height="300">
